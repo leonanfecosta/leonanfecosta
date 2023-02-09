@@ -78,12 +78,13 @@ class Skills extends Desenvolvedor {
 <a href="https://github.com/leonanfecosta">
  <img align="center" height="230em" src="https://github-readme-stats.vercel.app/api?username=leonanfecosta&show_icons=true&theme=dracula&line_height=27" alt="**Leonan Costa** github stats"/>
 </a>
+<br/>
 </div>
+
 
 [website]: https://codedev.ga/
 [twitter]: https://twitter.com/SEUTWITTER
 [youtube]: https://www.youtube.com/user/SEUYOUTUBE/
 [instagram]: https://www.instagram.com/SEUINSTAGRAM/
-[linkedin]: https://www.linkedin.com/in/leonanfecosta/
-![](https://komarev.com/ghpvc/?leonanfecosta)
-<br>
+[linkedin]: (https://www.linkedin.com/in/leonanfecosta/)
+![](https://komarev.com/ghpvc/?username=leonanfecosta&label=PROFILE+VIEWS)
