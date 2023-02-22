@@ -1,8 +1,4 @@
 
-
-<img src="https://github.com/leonanfecosta/leonanfecosta/blob/main/1669730889881.jpeg" />
-
-
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
 <img align="right" width="370" src="https://camo.githubusercontent.com/614fa85349993c86d896f58d289a71995a846c9924b5d34600c948d715c658f0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f35302f34342f33302f35303434333036376132326536646431656363326432653339346436653633342e676966" style="border-radius:50%" />
