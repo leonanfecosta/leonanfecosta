@@ -8,8 +8,8 @@ import Desenvolvedor from 'leonanfecosta';
 class SobreMim extends Desenvolvedor {
   nome = 'Leonan Fernandes da Costa Tavares';
   area = 'Desenvolvedor Full Stack';
-  idade  = 26;
-  local = 'Três Rios';
+  idade  = 29;
+  local = 'Florianópolis';
   email = 'leonanfecosta@gmail.com';
 }
 class Skills extends Desenvolvedor {
